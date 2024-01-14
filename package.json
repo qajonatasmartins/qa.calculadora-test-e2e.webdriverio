@@ -1,6 +1,6 @@
 {
   "name": "qa.youtube-test-e2e.webdriverio",
-  "type": "module",
+  "main": "index.js",
   "devDependencies": {
     "@wdio/appium-service": "^8.27.0",
     "@wdio/local-runner": "^8.27.0",
